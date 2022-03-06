@@ -24,9 +24,9 @@ const PORT = process.env.PORT || 5000;
 //   res.send("Hello About World From Database");
 // });
 
-app.get("/home", (req, res) => {
-  res.send("Hello Home World From Database");
-});
+// app.get("/home", (req, res) => {
+//   res.send("Hello Home World From Database");
+// });
 
 // app.get("/contact", (req, res) => {
 //   res.send("Hello Contact World From Database");
