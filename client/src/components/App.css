@@ -1,0 +1,91 @@
+.navbar-brand {
+  font-size: 4vh;
+}
+
+.navbar-brand > img {
+  width: 5vw;
+  padding-right: 1vw;
+}
+
+.navbar-nav {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 3vh;
+  width: 60vw;
+}
+
+/* .app{
+    height: 90vh;
+    width: 90vw;
+    background-color: black;
+    display: grid;
+    place-items: center;
+    
+}
+
+.app>Navbar{
+    height: 30vh;
+    margin-top: 0;
+} */
+
+.Home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 30vh;
+}
+
+.signup-content {
+  width: 40vw;
+  margin: auto;
+}
+
+.signup-image-link {
+  color: black;
+  text-decoration: none;
+}
+
+.contact-form {
+  width: 80vw;
+  margin: auto;
+}
+
+.ranking {
+  color: rgb(28, 183, 235);
+}
+
+.btn {
+  border: none;
+}
+
+.profile-work {
+  margin-left: 5vw;
+}
+
+.links {
+  text-decoration: none;
+  color: black;
+}
+
+.profile-img {
+  width: 20vw;
+  margin: auto;
+}
+
+.linkerp {
+  margin: auto;
+  font-size: 3vw;
+}
+
+.erPage {
+  margin-top: 30vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.headerp{
+  font-size: 6vw;
+}
